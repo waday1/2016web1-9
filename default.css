@@ -116,9 +116,9 @@ font-size:40px;
 	
 	background-color:blue;
 	background:linear-gradient(0deg,
-				#00679a
+				#00679a,
 				#0081b4 50%,
-				#63b3d2 50%
+				#63b3d2 50%,
 				#bfe5f2);
 }
 
