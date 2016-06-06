@@ -136,7 +136,7 @@ font-size:40px;
 }
 
 .rotate{
-	transform;rotate(30deg);
+	transform:rotate(30deg);
 }
 
 h5{
