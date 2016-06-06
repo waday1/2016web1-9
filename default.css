@@ -52,7 +52,7 @@ table {
 }
  
 body{
-    background-image:url(./images.png),url(./images2.JPG);
+    background-image:url(./images.png),url(./images2.jpg);
     background-repeat:no-repeat,no-repeat;
     background-size:5% 5%,cover;
     background-color:"#aef523";
