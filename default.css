@@ -55,7 +55,7 @@ body{
     background-image:url(./images.png),url(./images2.jpg);
     background-repeat:no-repeat,no-repeat;
     background-size:5% 5%,cover;
-    background-color:"#aeef23";
+    background-color:#38b481;
     margin:5px ;
 } 
 
