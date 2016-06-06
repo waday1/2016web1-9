@@ -122,6 +122,31 @@ font-size:40px;
 				#bfe5f2);
 }
 
+h4{
+font-size:40px;	
+}
+
+.transform{
+	font-size:10px;
+	width:100px;
+	text-align:center;
+	padding:45px 0px;
+	margin:20px;
+	background-color:mediumspringgreen;
+}
+
+.rotate{
+	transform;rotate(30deg);
+}
+
+h5{
+font-size:40px;	
+}
+
+
+
+
+
 
 
 
