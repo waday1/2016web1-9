@@ -102,25 +102,25 @@ h3{
 font-size:40px;	
 }
 
-#gradient{
-font-size:30px;
-}
-
-.two-gradient{
-	background-color:white;
+.button{
+	display:block;
+	margin:5px;
+	padding:10px;
+	width:200px;
+	text-align:center;
+	border-radius:5px;
+	box-shadow:1px 1px 3px dimgray;
+	color:white;
+	font-weight:bold;
+	text-shadow:1px 1px 0 rgba(0,0,0,0,4);
+	
+	background-color:blue;
 	background:linear-gradient(0deg,
-				orangered 0%,
-				white 50%);
+				#00679a
+				#0081b4 50%,
+				#63b3d2 50%
+				#bfe5f2);
 }
-
-.three-gradient{
-	background-color:white;
-	background:linear-gradient(90deg,
-				orangered 0%,
-				white 50%
-				orange 100%);
-}
-
 
 
 
