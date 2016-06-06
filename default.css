@@ -52,7 +52,7 @@ table {
 }
  
 body{
-    background-color:white;
+    background-color:#aef267;
     margin:5px ;
 } 
 
@@ -90,7 +90,7 @@ font-size:40px;
 
 .box-grow {
 	color:white;
-	text-shadow:0px 0px 10px gray;
+	box-shadow:0px 0px 10px gray;
 	padding:5px;
 	margin:20px;
 }
