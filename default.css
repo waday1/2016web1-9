@@ -99,23 +99,33 @@ font-size:40px;
 }
 
 h3{
-font-size:30px;	
+font-size:40px;	
 }
 
-#logo ul{
-overflow:hidden;	
+#gradient{
+font-size:30px;
 }
 
-#logo li{
-	display:table-cell;
-	vertical-align:middle;
-	padding:0 10;
-	list-style-type:none;
+.two-gradient{
+	background-color:white;
+	background:linear-gradient(0deg,
+				orangered 0%,
+				white 50%);
 }
 
-#logo img{
-width:100px;
+.three-gradient{
+	background-color:white;
+	background:linear-gradient(90deg,
+				orangered 0%,
+				white 50%
+				orange 100%);
 }
- 
+
+
+
+
+
+
+
 
  
