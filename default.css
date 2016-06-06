@@ -52,7 +52,9 @@ table {
 }
  
 body{
-    background-color:#aef267;
+    background-image:url(./images.png),url(./IMG_4444.JPG);
+    background-repeat:no-repeat,norepeat;
+    background-color:"#aef523";
     margin:5px ;
 } 
 
